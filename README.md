@@ -6,11 +6,11 @@ You can try the quiz on clicking the below link
 
 A CLI quiz application named "How well do you know me? " created to play a simple quiz about me.
 
-Technologies used
+# Technologies used
 
 Nodejs
 
-Features
+# Features
 
 Take the user's name as input
 Welcomed the user with welcome message
@@ -18,6 +18,6 @@ Welcomed the user with welcome message
 Displayed the user's current score
 Displaying the final score of user
 
-Leaderboard showing highest scored users with score
+# Leaderboard showing highest scored users with score
 
-If final score of user is greater updating the leaderboard and greet the user by displaying a message
+# If final score of user is greater updating the leaderboard and greet the user by displaying a message
