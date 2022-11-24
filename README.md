@@ -2,24 +2,20 @@
 A CLI quiz application named "How well do you know me? " was created to play a simple quiz about me.
 You can try the quiz on clicking the below link
 
-project1-CLI
+#project1-CLI
 
 A CLI quiz application named "How well do you know me? " created to play a simple quiz about me.
 
-Technologies used
+#Technologies used
 
 Nodejs
 
-Features
+#Features
 
 Take the user's name as input
-
 Welcomed the user with welcome message
-
 10 simple questions to be answered by the user
-
 Displayed the user's current score
-
 Displaying the final score of user
 
 Leaderboard showing highest scored users with score
