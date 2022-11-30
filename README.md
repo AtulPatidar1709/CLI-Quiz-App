@@ -1,23 +1,9 @@
-# CLI-Quiz-App
-A CLI quiz application named "How well do you know me? " was created to play a simple quiz about me.
-You can try the quiz on clicking the below link
+Project: Fandom quiz. CLI State Capital Quiz App
+NeoG Task 2
 
-# Project1-CLI
+Sub-tasks:
 
-A CLI quiz application named "How well do you know me? " created to play a simple quiz about me.
-
-# Technologies used
-
-Nodejs
-
-# Features
-
-Take the user's name as input
-Welcomed the user with welcome message
-10 simple questions to be answered by the user
-Displayed the user's current score
-Displaying the final score of user
-
-# Leaderboard showing highest scored users with score
-
-# If final score of user is greater updating the leaderboard and greet the user by displaying a message
+Make a quiz on anything you're passionate about, similar to markOne.
+Take Username as input.
+Have at least 5 questions.
+Display the final score to the user
