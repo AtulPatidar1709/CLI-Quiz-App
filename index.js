@@ -21,7 +21,7 @@ function play(question, answer) {
     console.log("Level One completed");
     console.log("__________")
   }
-  else if (score === 5) {
+  else if (score === 7) {
     console.log("Congratulations You Know States very well");
     console.log("__________")
   }
