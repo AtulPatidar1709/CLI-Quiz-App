@@ -22,7 +22,7 @@ function play(question, answer) {
     console.log("__________")
   }
   else if (score === 5) {
-    console.log("Congratulations You Know me very well");
+    console.log("Congratulations You Know States very well");
     console.log("__________")
   }
 }
