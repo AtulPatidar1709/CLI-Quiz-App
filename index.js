@@ -12,7 +12,7 @@ function play(question, answer) {
     score = score + 1;
   } else {
     console.log("You are Wrong Try Again");
-    score = score - 1;
+    score = score;
   }
   console.log("Your Score is " + score);
   console.log("____________")
